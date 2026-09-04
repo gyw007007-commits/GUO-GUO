@@ -1,0 +1,4 @@
+interface:
+  display_name: "GUO GUO SEO"
+  short_description: "Create data-driven SEO content for WooshPay Singapore"
+  default_prompt: "Use $guo-guo-seo to research competitors and write a keyword-annotated SEO article for WooshPay Singapore."
